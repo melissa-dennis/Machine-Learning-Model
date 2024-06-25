@@ -1,0 +1,57 @@
+/* PredictForm.css */
+.predict-form-container {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f5f5f5;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.predict-form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.predict-form label {
+    font-weight: bold;
+}
+
+.predict-form input {
+    padding: 8px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.predict-btn {
+    padding: 10px 15px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.predict-btn:hover {
+    background-color: #0056b3;
+}
+
+.prediction-result {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #d1e7dd;
+    color: #0f5132;
+    border-radius: 4px;
+}
+
+.error-message {
+    color: #dc3545;
+    background-color: #f8d7da;
+    border-radius: 4px;
+    padding: 10px;
+    margin-top: 10px;
+}
