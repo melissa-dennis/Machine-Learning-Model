@@ -1,5 +1,5 @@
 # AI- Machine Learning Model - Backend
-# Melissa Jane Dennis 
+By: Melissa Jane Dennis 
 
 # Overview
 This project is the backend part  AI Project, implemented using Express.js and Node.js. It provides a RESTful API to interact with the AI model predictions and manages data storage using MongoDB.
