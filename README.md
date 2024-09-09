@@ -1,11 +1,9 @@
-# COMP377_AI_Project_frontend
-
-# GROUP 8: 
-Melissa Jane Dennis - 301283465
+# AI Project - frontend
+By: Melissa Jane Dennis
 
 
 # Overview
-This project is the frontend for the COMP377 AI Project. It uses React.js to create an interactive web interface that communicates with the backend via a RESTful API.
+This project is the frontend for AI Project. It uses React.js to create an interactive web interface that communicates with the backend via a RESTful API.
 
 # Technical Stack
 - **Frontend Framework**: React.js
