@@ -1,10 +1,8 @@
-# COMP377_AI_Project_backend
-
-# GROUP 8: 
-Melissa Jane Dennis - 301283465
+# AI- Machine Learning Model - Backend
+# Melissa Jane Dennis 
 
 # Overview
-This project is the backend part of the COMP377 AI Project, implemented using Express.js and Node.js. It provides a RESTful API to interact with the AI model predictions and manages data storage using MongoDB.
+This project is the backend part  AI Project, implemented using Express.js and Node.js. It provides a RESTful API to interact with the AI model predictions and manages data storage using MongoDB.
 
 # Technical Stack
 - **Backend Framework**: Express.js
